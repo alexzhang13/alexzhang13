@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alex Zhang!](https://www.linkedin.com/in/alexzhang13/) 
 <!--
 **alexzhang13/alexzhang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+😄 Pronouns: He/Him
+🔭 I’m an undergraduate computer science student interested in AI, robotics, and everything game-related! </br>
+👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
+
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alzhang&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Alex's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alzhang&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexzhang13.alexzhang13)
