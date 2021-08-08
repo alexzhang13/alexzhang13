@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexzhang13&count_private=true&theme=dark&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Alex's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexzhang13&count_private=true&theme=dark&layout=compact&langs_count=8&hide_border=true)
+![Alex's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhang13&count_private=true&theme=dark&langs_count=8&hide_border=true)
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexzhang13.alexzhang13)
