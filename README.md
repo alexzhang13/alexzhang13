@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 🔭 I’m an undergraduate computer science student interested in AI, robotics, and everything game-related! </br>
 👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexzhang13&count_private=true&theme=dark&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Alex's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexzhang13&theme=dark&layout=compact&langs_count=8&hide_border=true&exclude_repo=xcs224n-a4-az,xcs224n-a5-az&hide=jupyter)
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexzhang13&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexzhang13.alexzhang13)
