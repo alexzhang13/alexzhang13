@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔭 I’m an undergraduate computer science student interested in AI, robotics, and everything game-related! </br>
 👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
 ⚡ Personal website: [alexzhang13.github.io](http://alexzhang13.github.io) </br>
-🌎 Check out my most recent paper: [Langauge-guided World Models](https://language-guided-world-model.github.io)
+🌎 Check out my most recent paper: [Language-guided World Models](https://language-guided-world-model.github.io)
 💬 Check out my TigerApp for Princeton students: [research.tigerapps.org](https://research.tigerapps.org)  </br>
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexzhang13&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
