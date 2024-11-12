@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### About Me
 😄 Pronouns: He/Him </br>
-🔭 I’m an undergraduate computer science student interested in AI, robotics, and everything game-related! </br>
+🔭 I just graduated from Princeton CS in May, 2024! </br>
 👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
 ⚡ Personal website: [alexzhang13.github.io](http://alexzhang13.github.io) </br>
 🌎 Check out my most recent paper: [Language-guided World Models](https://language-guided-world-model.github.io) </br>
