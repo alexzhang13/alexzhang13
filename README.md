@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔭 Princeton CS, 2024! </br>
 👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
 ⚡ Personal website: [alexzhang13.github.io](http://alexzhang13.github.io) </br>
-🌎 Check out my most recent paper: [SWE-Bench Multimodal](https://www.swebench.com/multimodal.html) </br>
+🌎 Check out my most recent papers: [SWE-Bench Multimodal](https://www.swebench.com/multimodal.html), [KernelBench](https://arxiv.org/abs/2502.10517) </br>
 💬 ~~Check out my TigerApp for Princeton students: [research.tigerapps.org](https://research.tigerapps.org)~~ edit: Heroku broken... </br>
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexzhang13&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
