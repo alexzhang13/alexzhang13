@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-😄 Pronouns: He/Him </br>
-🔭 Princeton CS, 2024! </br>
 👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
+🎮 My newest benchmark on LMs playing video games: [https://www.vgbench.com/](https://www.vgbench.com/)
 ⚡ Personal website: [alexzhang13.github.io](http://alexzhang13.github.io) </br>
 🌎 Check out my most recent papers: [SWE-Bench Multimodal](https://www.swebench.com/multimodal.html), [KernelBench](https://arxiv.org/abs/2502.10517) </br>
 💬 ~~Check out my TigerApp for Princeton students: [research.tigerapps.org](https://research.tigerapps.org)~~ edit: Heroku broken... </br>
