@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alex Zhang!](https://www.linkedin.com/in/alexzhang13/) 
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alex Zhang!]([https://www.linkedin.com/in/alexzhang13/](http://alexzhang13.github.io)) 
 <!--
 **alexzhang13/alexzhang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-👯 Feel free to contact me about anything at alzhang@princeton.edu </br>
-🎮 My newest benchmark on LMs playing video games: [https://www.vgbench.com/](https://www.vgbench.com/) </br>
 ⚡ Personal website: [alexzhang13.github.io](http://alexzhang13.github.io) </br>
+🎮 My newest benchmark on LMs playing video games: [https://www.vgbench.com/](https://www.vgbench.com/) </br>
 🌎 Check out my most recent papers: [SWE-Bench Multimodal](https://www.swebench.com/multimodal.html), [KernelBench](https://arxiv.org/abs/2502.10517) </br>
 💬 ~~Check out my TigerApp for Princeton students: [research.tigerapps.org](https://research.tigerapps.org)~~ edit: Heroku broken... </br>
 
