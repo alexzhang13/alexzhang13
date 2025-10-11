@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-⚡ Personal website: [alexzhang13.github.io](http://alexzhang13.github.io) </br>
-🎮 My newest benchmark on LMs playing video games: [https://www.vgbench.com/](https://www.vgbench.com/) </br>
-🌎 My most recent papers: [VideoGameBench](https://arxiv.org/abs/2505.18134), [KernelBench](https://arxiv.org/abs/2502.10517), [SWE-Bench Multimodal](https://www.swebench.com/multimodal.html) </br>
-
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexzhang13&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
-<br />
+* Personal website: [alexzhang13.github.io](http://alexzhang13.github.io) </br>
+* My newest benchmark on LMs playing video games: [https://www.vgbench.com/](https://www.vgbench.com/) </br>
+* My most recent papers: [VideoGameBench](https://arxiv.org/abs/2505.18134), [KernelBench](https://arxiv.org/abs/2502.10517), [SWE-Bench Multimodal](https://www.swebench.com/multimodal.html) </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexzhang13.alexzhang13)
